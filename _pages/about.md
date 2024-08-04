@@ -3,6 +3,6 @@ My research interest includes computer vision, machine learning, Large language 
 
 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/DENGBOYU.pdf).
+You can find my CV here: [DENGBOYU's CV](../assets/DENG-BOYU-FlowCV-Resume-20240722.pdf).
 
 [Email](22056958g@connect.polyu.hk) / [Github](https://github.com/DENGBOYU-REX) / [Wechat](../images/wechat.jpg)
