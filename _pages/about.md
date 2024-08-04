@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size=5>About me:</font>
+
 I hold an MSc in Biomedical Engineering from [Department of Biomedical Engineering](https://www.polyu.edu.hk/bme/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) and and a BEng in Biomedical Engineering from Guangzhou University of Chinese Medicine(GZUCM, Double-First Class University).
 
 After completing my MSc, I joined Guangzhou National Lab as an AI Engineer, focusing on the application of AI in the medical field. Currently, I am working for a large technology solutions company as an AI Engineer, where I specialize in Large Language Models (LLMs), Agents, and Multimodal Large Language Models (MLLMs).
